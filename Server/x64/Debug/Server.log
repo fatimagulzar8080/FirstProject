@@ -1,0 +1,4 @@
+﻿  Server.cpp
+C:\Users\HP\source\repos\Fatima'sMessenger\Server\Server.cpp(13,39): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  LINK : C:\Users\HP\source\repos\Fatima'sMessenger\x64\Debug\Server.exe not found or not built by the last incremental link; performing full link
+  Server.vcxproj -> C:\Users\HP\source\repos\Fatima'sMessenger\x64\Debug\Server.exe
